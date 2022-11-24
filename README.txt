@@ -1,0 +1,3 @@
+#GUIA BASICO DE INSTALAÇÃO 
+Para facilar no uso e na instalação de algumas ferramentas, foi criado o `script.sh` para instalarmos o programas `Git`, `Vscode`, `MySQL`, `PostgreSQL`, `DBeaver` e `Docker`. Porem ao iniciar o script deve ficar atento em cada mensagem após a instalação, retornando se a instalação foi bem sucedida ou se possui problemas.
+O arquivo requirements.txt pode ser utilizado para instalar algumas bibliotemas importantes para o nosso desenvolvimento, dessa forma podemos instalar utilizando o comando pip install -m `requirements.txt`.
